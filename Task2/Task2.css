@@ -1,0 +1,14 @@
+table{
+    border-style: solid;
+    color: black;
+    border-color:burlywood ;
+}
+thead{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+td{
+    border-style: solid;
+    border-color: blanchedalmond;
+}
