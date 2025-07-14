@@ -1,0 +1,12 @@
+div{
+    width: 400px;
+    background-color: rgb(242, 237, 231);
+    margin: 10px;
+    border-left: solid 4px blue;
+    padding-left: 5px;
+    outline: solid 10px rgb(242, 237, 231);
+    display: inline-block;
+}
+.element-2{
+    visibility: hidden;
+}
