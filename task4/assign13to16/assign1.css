@@ -1,0 +1,12 @@
+div.parent div.child span.title{
+    color: red;
+}
+div.parent span.title {
+    color: blue;
+}
+div.parent p , div.title{
+    color: green;
+}
+/* div.title{
+    color: green;
+} */
