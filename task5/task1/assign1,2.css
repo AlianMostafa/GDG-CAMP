@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    background-color: antiquewhite;    
+}
+div{
+    text-transform:capitalize;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 1px 1px red ,2px 2px rgb(2, 161, 234), 3px 3px rgb(221, 0, 255);
+}
+
+.one{
+    font-size: 100px;
+    text-align: center;
+    text-transform:uppercase;
+}
+.two{
+    font-size: 100px;
+    text-align: center;
+    text-transform:capitalize;
+}
+.three{
+    font-size: 100px;
+    text-align: center;
+    text-transform:lowercase;
+}
+
+a{
+    text-decoration: none;
+    background-color:rgb(32, 152, 112);
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 1px;
+    display: inline-block;
+    text-transform: capitalize;
+    border-bottom: 5px solid rgb(33, 90, 71);
+    text-align: center ;
+}
