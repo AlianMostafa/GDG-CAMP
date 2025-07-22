@@ -1,0 +1,35 @@
+.inhert{
+    text-align:center;
+    background-color: white;
+    text-transform: capitalize;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid rgb(255, 0, 0);
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.inhert p{
+    background-color: #d9dae4;
+    padding: inherit;
+    border: inherit;
+}
+h2{
+    text-align: center;
+}
+.font{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+div  .one{
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-style: italic;
+}
+div .two{
+    font-family: "Cairo", sans-serif;
+}
+div .three{
+  font-family: "Jomhuria", serif;
+  font-weight: 400;
+}
