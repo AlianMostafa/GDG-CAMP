@@ -1,0 +1,39 @@
+table{
+    width: 700px;
+    margin: auto;
+    /* background-color: #eeeeee; */
+    border-bottom: 2px solid #45b3a8;
+    text-align: center;
+}
+
+thead{
+    background-color: #404040;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+tbody{
+    background-color: #eeeeee;
+
+}
+
+img{
+    width: 100px ;
+    height: 100px
+}
+button {
+color: white;
+cursor: pointer;
+}
+button:hover{
+    background-color: black;
+}
+.one{
+    background-color: #03a9f4;
+    border: none;
+    border-radius: 3px;
+}
+.two{
+    background-color: #e91e63;
+    border: none;
+    border-radius: 3px;
+}
